@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HellowebfluxApplication {
+public class HelloWebFluxApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HellowebfluxApplication.class, args);
+		SpringApplication.run(HelloWebFluxApplication.class, args);
 	}
 
 }
